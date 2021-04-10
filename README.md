@@ -7,3 +7,7 @@ Fast -: Browser is controlled from inside a web page. This makes test run inside
 Simple Cross-Browser Support -: Because TestCafe only launches browsers, it can automate browser on desktop or mobile. Unlike WebDriver, you don't need special version of browser and driver to prepare to run tests. Setup simplified. All you need is just a browser installed, and you are ready to go.
 
 Stable to Execution -: Because a test is executed inside a browser, the network latency effects are reduced. Unlike WebDriver you won't hit stale element exceptions, or element not interactable exceptions, as from within a web browser all DOM elements are accessible.
+
+
+please Installing TestCafe and Ensure that Node.js and npm are installed on your computer and run the following command:
+npm install -g testcafe
