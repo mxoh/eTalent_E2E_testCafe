@@ -1,6 +1,3 @@
-# eTalent_E2E_testCafe
-
-
 This E2E Test suites for eTalente Login page (https://etalente.co.za), using TestCafe framework.
 The features is for a failed login to the eTalente.
 
